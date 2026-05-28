@@ -1,10 +1,10 @@
 
 # loyalty for police + reichswehr
-(..0.06) completely disloyal
-(0.06..0.19) very disloyal
-(0.19..0.31) generally disloyal
-(0.31..0.41) mostly disloyal
-(0.41..0.54) divided
-(0.54..0.71) mostly loyal
-(0.71..0.95) generally loyal
-(0.95..) completely loyal
+(..0.06) 완전히 불충
+(0.06..0.19) 매우 불충
+(0.19..0.31) 대체로 불충
+(0.31..0.41) 다소 불충
+(0.41..0.54) 분열됨
+(0.54..0.71) 다소 충성
+(0.71..0.95) 대체로 충성
+(0.95..) 완전히 충성
